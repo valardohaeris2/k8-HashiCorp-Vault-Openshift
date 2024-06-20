@@ -1,2 +1,2 @@
-# k8-HashiCorp-Vault-Openshift
+# HashiCorp Vault Helm Chart for Openshift Deployment
 Helm override file for managing Vault on RedHat OpenShift 
